@@ -1,0 +1,5 @@
+
+{
+  "name": "AI RPG Character Sheet Generator",
+  "description": "An application to generate a complete RPG character sheet using random data and AI. Users can specify name, race, alignment, and RPG setting to create a unique character with AI-generated descriptions, skills, portraits, and setting-based backgrounds. Supports English and Brazilian Portuguese."
+}
