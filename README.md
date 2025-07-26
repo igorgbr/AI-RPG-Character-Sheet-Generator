@@ -6,7 +6,7 @@ Generate a complete, ready-to-play AI-powered character sheet for your tabletop 
 
 ---
 
-![Character Sheet Example](https://storage.googleapis.com/fpl-prd-storage/hosted-pando/pando-assets/prod/AI_RPG_Sheet_Demo.png)
+![Character Sheet Example](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1gu38f8inphbd21ghmna.png)
 
 ## ✨ Features
 
